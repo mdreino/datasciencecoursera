@@ -1,11 +1,3 @@
 datasciencecoursera
 ===================
-mkdir ~/Hello-World
-
-
-cd ~/Hello-World
-
-
-git init
-
-touch README
+Course materials for the Data Science Specialization from Coursera
